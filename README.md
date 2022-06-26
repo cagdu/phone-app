@@ -1,2 +1,4 @@
 # phone-app
-for games
+> for games
+
+![ Example SS ](https://prnt.sc/x_xkE9ZvoVAn)
